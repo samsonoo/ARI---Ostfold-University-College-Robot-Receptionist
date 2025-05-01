@@ -2,6 +2,8 @@
 
 This repository contains the source code and assets used in an end-user study to validate the **SecuRoPS** framework using the **ARI social robot** from PAL Robotics. The study was conducted at Østfold University College and integrates multiple reusable components built on the PAL Robotics SDK 23.12.
 
+![Robot Demo](Hiøf_Ari.jpg)
+
 ## 🧠 Project Purpose
 
 This application enables the ARI robot to serve as an interactive receptionist. It presents university study programs, collects visitor interest, and showcases multimedia content through an engaging voice-enabled interface. The robot operates autonomously with preloaded visual and spoken interactions in both English and Norwegian.
