@@ -62,6 +62,7 @@ This study does not collect any sensitive personal data. All user interactions a
 ## Citation
 
 If you use this code or the SecuRoPS framework in your research, please cite the following paper:
+
 **Oruma, S.O.; Colomo-Palacios, R.; Gkioulos, V. From Framework to Reliable Practice: End-User Perspectives on Social Robots in Public Spaces. Systems 2026, 14, 137. https://doi.org/10.3390/systems14020137**
 
 ### BibTex
@@ -77,6 +78,11 @@ URL = {https://www.mdpi.com/2079-8954/14/2/137},
 ISSN = {2079-8954},
 DOI = {10.3390/systems14020137}
 }
+
+---
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ---
 
 ## 📬 Contact
