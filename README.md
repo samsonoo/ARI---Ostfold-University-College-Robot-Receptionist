@@ -64,7 +64,7 @@ This study does not collect any sensitive personal data. All user interactions a
 For questions, contributions, or collaborations:
 
 **Samson Oruma**  
-📧 samsonoo@hiof.no  
+📧 samsonoo@ntnu.no  
 🌐 https://www.linkedin.com/in/samsonoruma/
 
 
